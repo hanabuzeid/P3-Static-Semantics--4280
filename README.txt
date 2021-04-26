@@ -1,9 +1,4 @@
-// Name:    Jesse McCarville-Schueths
-// Course:  4280
-// Date:    April 25, 2021
-// Project: P3
-
-IMORPTANT: I assumed every test file ends with the extension ".ss21" 
+ I assumed every test file ends with the extension ".ss21" 
 
 to run p3: type "./statSem  [file]"
 
